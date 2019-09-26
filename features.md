@@ -24,7 +24,7 @@ sections:
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
     image: images/feature1.png
-    section_id: features
+    section_id: services
     title: So many services!
     type: contentblock
   - actions:
