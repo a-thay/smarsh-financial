@@ -23,7 +23,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Home loans
       - actions:
           - label: Learn More
             url: /features
@@ -32,7 +32,7 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: Auto loans
       - actions:
           - label: Learn More
             url: /features
@@ -41,7 +41,7 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: 401Ks
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
@@ -51,18 +51,18 @@ sections:
   - bg: white
     component: reviews_block.html
     reviews:
-      - author: John Doe
+      - author: Anders Anderson
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
+      - author: Jean Dupont
         avatar: images/review2.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
+      - author: Marko Markovic
         avatar: images/review3.jpg
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
@@ -71,20 +71,20 @@ sections:
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
-    title: Testimonials
+    title: What our clients are saying
     type: reviewsblock
   - actions:
       - label: Get Started
         url: /signup
     component: cta_block.html
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: One-click and you've got a great loan.
+    title: Low-interest home loans in one click. Really!
     type: ctablock
   - bg: gray
     component: posts_block.html
     section_id: recent-posts
-    title: Latest Posts
+    title: From the blog
     type: postsblock
 menus:
   main:
