@@ -1,34 +1,31 @@
-title: Stackbit Azimuth Theme
+title: Smarsh Financial Inc.
 baseurl: /
 permalink: '/:title/'
 palette: blue
 header:
-  title: Azimuth
-  logo_img: images/logo.png
   has_nav: true
+  logo_img: /images/smarsh-logo-tagline-tm-color-large.png
   menu:
     actions:
-      - label: Sign Up
+      - label: Learn More
         url: /signup
+  title: Smarsh Financial Inc.
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  content: '&copy; Smarsh Financial Inc. All rights reserved.'
   has_nav: true
-  nav_title: Company
   has_social: true
-  social_title: Community
   has_subscribe: true
+  links: []
+  logo_img: /images/smarsh-logo-tagline-tm-color-large.png
+  nav_title: Company
+  social_title: Community
+  subscribe_content: Stay up to date with our latest updates.
   subscribe_title: Subscribe
-  subscribe_content: Stay up to date with our latest developments.
-  content: '&copy; Stackbit. All rights reserved.'
-  links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
+  tagline: Securing your financial future.
 sass:
   indentWidth: 4
-  style: nested
   precision: 10
+  style: nested
 plugins:
   - jekyll-menus
 exclude:
@@ -45,6 +42,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
