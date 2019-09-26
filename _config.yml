@@ -4,7 +4,7 @@ permalink: '/:title/'
 palette: blue
 header:
   has_nav: true
-  logo_img: /images/web-archive-symbol.png
+  logo_img: ''
   menu:
     actions:
       - label: Learn More
