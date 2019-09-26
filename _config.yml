@@ -4,7 +4,7 @@ permalink: '/:title/'
 palette: blue
 header:
   has_nav: true
-  logo_img: /images/smarsh-logo-tagline-tm-color-large.png
+  logo_img: /images/web-archive-symbol.png
   menu:
     actions:
       - label: Learn More
@@ -16,7 +16,7 @@ footer:
   has_social: true
   has_subscribe: true
   links: []
-  logo_img: /images/smarsh-logo-tagline-tm-color-large.png
+  logo_img: /images/smarsh-logo-tm-white-large.png
   nav_title: Company
   social_title: Community
   subscribe_content: Stay up to date with our latest updates.
