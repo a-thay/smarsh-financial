@@ -16,8 +16,8 @@ sections:
     component: features_block.html
     featureslist:
       - actions:
-          - label: Business Solutions
-            url: /business-solutions
+          - label: Learn More
+            url: /services
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
