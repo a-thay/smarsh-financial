@@ -1,12 +1,10 @@
 ---
-title: Sign Up
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+title: Learn More
+subtitle: Financial well-being is just a click away.
 img_path: images/11.jpg
 menus:
   secondary:
-    title: Sign Up
+    title: Learn More
     weight: 1
 layout: page
 ---
