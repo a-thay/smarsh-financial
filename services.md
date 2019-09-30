@@ -2,10 +2,10 @@
 title: Services
 sections:
   - actions:
-      - label: Free Trial
-        url: /services
-      - label: View Demo
-        url: '#'
+      - label: About Us
+        url: /about
+      - label: Chat
+        url: /contact
     bg: gray
     component: content_block.html
     content: >-
@@ -28,12 +28,12 @@ sections:
     title: So many services!
     type: contentblock
   - actions:
-      - label: Get Started
-        url: '#'
+      - label: Learn More
+        url: /learn-more
     component: cta_block.html
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call to Action Block!
+    subtitle: We mean it!
+    title: The best loan rates in the industry, we guarantee it.
     type: ctablock
 menus:
   main:
