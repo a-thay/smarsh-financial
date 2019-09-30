@@ -1,1 +1,5 @@
-{}
+main:
+  - identifier: new-menu
+    title: Menu Test
+    url: 'https://smarsh-financial-cd8b5.netlify.com/about/'
+    weight: 1
