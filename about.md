@@ -1,8 +1,6 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Who we are.
 img_path: images/about.jpg
 menus:
   secondary:
