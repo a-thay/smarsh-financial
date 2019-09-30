@@ -3,7 +3,7 @@ title: Services
 sections:
   - actions:
       - label: Free Trial
-        url: /signup
+        url: /services
       - label: View Demo
         url: '#'
     bg: gray
@@ -41,4 +41,3 @@ menus:
     weight: 2
 layout: features
 ---
-

@@ -6,7 +6,7 @@ sections:
     pricingplans:
       - actions:
           - label: Contact us
-            url: /signup
+            url: /learn-more
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
@@ -16,7 +16,7 @@ sections:
         title: Small (0-49 employees)
       - actions:
           - label: Contact us
-            url: /signup
+            url: /learn-more
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula
@@ -28,7 +28,7 @@ sections:
         title: Medium (50-100 employees)
       - actions:
           - label: Contact us
-            url: /signup
+            url: /learn-more
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
@@ -53,7 +53,7 @@ sections:
       - answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
+          eget velit.
         question: Aliquam eget purus ante?
       - answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
@@ -74,4 +74,3 @@ menus:
     weight: 3
 layout: pricing
 ---
-

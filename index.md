@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Learn More
-        url: /features
+        url: /learn-more
     component: hero_block.html
     content: >-
       Home loans or car loans? No problem. New baby on the way, or grown-up
@@ -16,8 +16,8 @@ sections:
     component: features_block.html
     featureslist:
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Business Solutions
+            url: /business-solutions
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
@@ -26,7 +26,7 @@ sections:
         title: Home loans
       - actions:
           - label: Learn More
-            url: /features
+            url: /learn-more
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
@@ -35,7 +35,7 @@ sections:
         title: Auto loans
       - actions:
           - label: Learn More
-            url: /features
+            url: /services
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
@@ -70,12 +70,12 @@ sections:
     section_id: reviews
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      semper libero id sodales.
     title: What our clients are saying
     type: reviewsblock
   - actions:
-      - label: Get Started
-        url: /signup
+      - label: Learn More
+        url: /learn-more
     component: cta_block.html
     section_id: call-to-action
     subtitle: One-click and you've got a great loan.
@@ -92,4 +92,3 @@ menus:
     weight: 1
 layout: home
 ---
-

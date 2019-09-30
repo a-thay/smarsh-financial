@@ -8,7 +8,7 @@ header:
   menu:
     actions:
       - label: Learn More
-        url: /signup
+        url: /learn-more
   title: Smarsh Financial Inc.
 footer:
   content: '&copy; Smarsh Financial Inc. All rights reserved.'
