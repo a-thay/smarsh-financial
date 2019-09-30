@@ -11,13 +11,12 @@ layout: page
 
 # Portland
 
-Headquartered in the sunny (yes, there's sun here!) Pacific Northwest...
+![Portland](/images/pdx.png "Portland loves food.")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet nisl suscipit adipiscing. Vel turpis nunc eget lorem dolor. Vel orci porta non pulvinar neque laoreet. Nunc faucibus a pellentesque sit amet porttitor eget dolor morbi. Ultricies mi eget mauris pharetra et. Pharetra convallis posuere morbi leo urna molestie. Integer quis auctor elit sed vulputate. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Nisi porta lorem mollis aliquam ut porttitor. Nec ullamcorper sit amet risus nullam. Mauris vitae ultricies leo integer malesuada.
 
 Neque ornare aenean euismod elementum nisi quis eleifend quam. Morbi enim nunc faucibus a. Ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Ipsum dolor sit amet consectetur adipiscing elit. Massa vitae tortor condimentum lacinia quis. Egestas diam in arcu cursus euismod quis viverra nibh. Habitasse platea dictumst vestibulum rhoncus est pellentesque. Nisl tincidunt eget nullam non nisi est. Id diam vel quam elementum pulvinar etiam non. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.
 
-![Portland](/images/pdx.png "Portland loves food.")
 
 # New York
 
