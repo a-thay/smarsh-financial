@@ -1058,12 +1058,12 @@ collections:
             label: Layout
             required: true
             default: pricing
-  - name: features
-    label: Features
+  - name: services
+    label: Services
     files:
-      - name: features
-        label: Features
-        file: features.md
+      - name: services
+        label: Services
+        file: services.md
         fields:
           - widget: string
             name: title
