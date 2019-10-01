@@ -3,6 +3,7 @@ backend:
   branch: master
 media_folder: images
 public_folder: /images
+publish_mode: editorial_workflow
 collections:
   - name: config
     label: Global Site Config
@@ -746,12 +747,12 @@ collections:
             label: Layout
             required: true
             default: home
-  - name: pricing
-    label: Pricing
+  - name: biz
+    label: Business Solutions
     files:
-      - name: pricing
-        label: Pricing
-        file: pricing.md
+      - name: biz
+        label: Business Solutions
+        file: business-solutions.md
         fields:
           - widget: string
             name: title
